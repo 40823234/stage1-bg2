@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '組員', 'text': '40823234 游子毅 \n 40823235 邱璽 \n', 'tags': '', 'url': '組員.html'}, {'title': 'w2', 'text': '\n', 'tags': '', 'url': 'w2.html'}, {'title': 'w3', 'text': '', 'tags': '', 'url': 'w3.html'}]};
+var tipuesearch = {"pages": [{'title': '組員', 'text': '40823234 游子毅 \n 40823235 邱璽 \n', 'tags': '', 'url': '組員.html'}, {'title': 'w2', 'text': '\n 123 \n', 'tags': '', 'url': 'w2.html'}, {'title': 'w3', 'text': '', 'tags': '', 'url': 'w3.html'}]};
