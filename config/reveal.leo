@@ -230,7 +230,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
       &lt;h2&gt;第4次設計改良&lt;/h2&gt;
     &lt;image src="第4次.png" width="600"
-            hight="300"&gt;
+            hight="280"&gt;
          &lt;p&gt;
         為解決橫向傾斜問題我們增加了縱向軌道的寬度來支撐
     &lt;/p&gt;
