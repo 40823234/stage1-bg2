@@ -226,6 +226,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
+    @others
     &lt;h2&gt;問題與解決方法&lt;/h2&gt;
     &lt;image src="第1次.png" width="600"
             hight="300"&gt;
