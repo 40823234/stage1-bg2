@@ -20,6 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210317224222.1"><vh>slide21</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -208,27 +209,26 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h1&gt;CD2021 產品協同設計&lt;/h1&gt;
+    &lt;h2&gt;Stage1-bg2&lt;/h2&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+                &lt;small&gt;Created by &lt;a href="https://github.com/40823234/cd2021"&gt;40823234 游子毅&lt;/a&gt; and &lt;a href="https://github.com/40823235/cd2021"&gt;40823235 邱璽&lt;/a&gt;&lt;/small&gt;
+            &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;夾爪機構&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+        動機:想要拿取東西但是手臂長度不足時，利用夾爪來彌補長度限制
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
-    @others
+    &lt;h2&gt;問題與解決方法&lt;/h2&gt;
+    &lt;image src="第1次" width="600"
+            hight="300"&gt;
 &lt;/section&gt;
 
 </t>
@@ -647,6 +647,10 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317224222.1">&lt;section&gt;
+    &lt;h2&gt;零件介紹&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jkpg-IC5KEA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
