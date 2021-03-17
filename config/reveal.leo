@@ -227,8 +227,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     &lt;h2&gt;問題與解決方法&lt;/h2&gt;
-    &lt;image src="第1次" width="600"
+    &lt;image src="第1次.png" width="600"
             hight="300"&gt;
+         &lt;p&gt;
+        經過討論後決的第一次設計出的夾爪只能抓取前方固定範圍距離的物品靈活度太低
+    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -241,27 +244,30 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+     &lt;h2&gt;第2次設計改良&lt;/h2&gt;
+    &lt;image src="第2次.png" width="600"
+            hight="300"&gt;
+         &lt;p&gt;
+        討論後決定增加橫向軌道與縱向軌道來增加可抓取範圍以增加靈活度增加可抓取範圍
+    &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+     &lt;h2&gt;第3次設計改良&lt;/h2&gt;
+    &lt;image src="第3次.png" width="600"
+            hight="300"&gt;
+         &lt;p&gt;
+        加入軌道後發現橫向軌道有傾斜問題導致夾抓無法移動到指定位置
+    &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+      &lt;h2&gt;第4次設計改良&lt;/h2&gt;
+    &lt;image src="第4次.png" width="600"
+            hight="300"&gt;
+         &lt;p&gt;
+        為解決橫向傾斜問題我們增加了縱向軌道的寬度來支撐
+    &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
